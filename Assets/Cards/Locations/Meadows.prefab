@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4410606390566021874
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: CardInfo
+      value: 
+      objectReference: {fileID: 11400000, guid: a5b3ebbbb016abd4482751eb1f129a8f, type: 2}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].GenerationType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].Cards.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedPicker.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[2].Card.Join
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[0].Probability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[1].Probability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[2].Probability
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[0].Card.GeneratedCard
+      value: 
+      objectReference: {fileID: 1484972652387906162, guid: 6936f122781c9894d97a280f054a4f1a, type: 3}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[1].Card.GeneratedCard
+      value: 
+      objectReference: {fileID: 3018510586743145882, guid: 71044aacf19f50b4eaff889068341897, type: 3}
+    - target: {fileID: 2521856588365193683, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: MacroSequence.Array.data[0].WeightedRandomCards.Array.data[2].Card.GeneratedCard
+      value: 
+      objectReference: {fileID: 3018510586743145882, guid: 8eddf007b9dd5824aa7c1d271a4079cc, type: 3}
+    - target: {fileID: 5522738745255758987, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_Name
+      value: Meadows
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5522738745255758990, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fdb9448d05716e4895355fad4dbbf36, type: 3}

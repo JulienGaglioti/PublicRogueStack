@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5687e6311195b8d49832f93316daa424, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  TimeNeeded: 12
+  CardTagsSO:
+  - {fileID: 11400000, guid: 5efe1d1a77c9d6f419d54dc155b91498, type: 2}
+  - {fileID: 11400000, guid: 5efe1d1a77c9d6f419d54dc155b91498, type: 2}
+  - {fileID: 11400000, guid: 5efe1d1a77c9d6f419d54dc155b91498, type: 2}
+  Effects:
+  - {fileID: 11400000, guid: 2463cbfcb094a9f479eb4e69aa809c45, type: 2}
+  - {fileID: 11400000, guid: b475ed70cbead8544bdaa6dcb3b22cf0, type: 2}
